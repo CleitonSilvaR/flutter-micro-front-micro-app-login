@@ -15,7 +15,7 @@ dependencies:
   flutter_micro_front_micro_core:
     git:
       url: https://github.com/CleitonSilvaR/flutter-micro-front-micro-core.git
-      ref: v1.0.3
+      ref: v1.0.4
 
 dev_dependencies:
   flutter_test:
