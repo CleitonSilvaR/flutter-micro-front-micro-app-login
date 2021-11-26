@@ -1,4 +1,4 @@
-import 'package:flutter_micro_front_micro_app_login/app/page/login_page.dart';
+import 'package:flutter_micro_front_micro_app_login/app/pages/login_page.dart';
 import 'package:flutter_micro_front_micro_core/micro_core.dart';
 
 class MicroAppLoginResolver implements MicroApp {
