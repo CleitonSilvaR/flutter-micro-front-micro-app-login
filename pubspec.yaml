@@ -17,6 +17,11 @@ dependencies:
       url: https://github.com/CleitonSilvaR/flutter-micro-front-micro-core.git
       ref: v1.0.4
 
+  flutter_micro_front_micro_commons_desing_system:
+    git:
+      url: https://github.com/CleitonSilvaR/flutter-micro-front-micro-commons-desing-system.git
+      ref: v1.0.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
