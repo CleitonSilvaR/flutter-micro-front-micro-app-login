@@ -1,0 +1,25 @@
+{"protocolVersion":"0.1.1","runnerVersion":null,"pid":35112,"type":"start","time":0}
+{"suite":{"id":0,"platform":"vm","path":"C:\\Users\\cleiton.rego\\workspace\\estudo\\flutter-micro-front\\flutter-micro-front-micro-app-login\\test\\controllers\\login_controller_test.dart"},"type":"suite","time":0}
+{"test":{"id":1,"name":"loading C:\\Users\\cleiton.rego\\workspace\\estudo\\flutter-micro-front\\flutter-micro-front-micro-app-login\\test\\controllers\\login_controller_test.dart","suiteID":0,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":1}
+{"suite":{"id":2,"platform":"vm","path":"C:\\Users\\cleiton.rego\\workspace\\estudo\\flutter-micro-front\\flutter-micro-front-micro-app-login\\test\\pages\\login_page_test.dart"},"type":"suite","time":8}
+{"test":{"id":3,"name":"loading C:\\Users\\cleiton.rego\\workspace\\estudo\\flutter-micro-front\\flutter-micro-front-micro-app-login\\test\\pages\\login_page_test.dart","suiteID":2,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":8}
+{"count":2,"time":9,"type":"allSuites"}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:52846/EaIrexq1oMo=/"}}]
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:52853/gNdQ2ma8pG8=/"}}]
+{"testID":1,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":2273}
+{"group":{"id":4,"suiteID":0,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":2279}
+{"test":{"id":5,"name":"(setUpAll)","suiteID":0,"groupIDs":[4],"metadata":{"skip":false,"skipReason":null},"line":9,"column":3,"url":"file:///C:/Users/cleiton.rego/workspace/estudo/flutter-micro-front/flutter-micro-front-micro-app-login/test/controllers/login_controller_test.dart"},"type":"testStart","time":2280}
+{"testID":5,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":2298}
+{"test":{"id":6,"name":"Should LoginController return true in login method with correct values","suiteID":0,"groupIDs":[4],"metadata":{"skip":false,"skipReason":null},"line":15,"column":3,"url":"file:///C:/Users/cleiton.rego/workspace/estudo/flutter-micro-front/flutter-micro-front-micro-app-login/test/controllers/login_controller_test.dart"},"type":"testStart","time":2300}
+{"testID":6,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":2312}
+{"test":{"id":7,"name":"Should LoginController return false in login method with invalid values","suiteID":0,"groupIDs":[4],"metadata":{"skip":false,"skipReason":null},"line":21,"column":3,"url":"file:///C:/Users/cleiton.rego/workspace/estudo/flutter-micro-front/flutter-micro-front-micro-app-login/test/controllers/login_controller_test.dart"},"type":"testStart","time":2313}
+{"testID":7,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":2317}
+{"test":{"id":8,"name":"(tearDownAll)","suiteID":0,"groupIDs":[4],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":2317}
+{"testID":8,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":2322}
+{"testID":3,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":2454}
+{"group":{"id":9,"suiteID":2,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":1,"line":null,"column":null,"url":null},"type":"group","time":2454}
+{"test":{"id":10,"name":"Should find a single widget per view on screen rendering","suiteID":2,"groupIDs":[9],"metadata":{"skip":false,"skipReason":null},"line":159,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":6,"root_column":3,"root_url":"file:///C:/Users/cleiton.rego/workspace/estudo/flutter-micro-front/flutter-micro-front-micro-app-login/test/pages/login_page_test.dart"},"type":"testStart","time":2454}
+{"testID":10,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":2906}
+{"success":true,"type":"done","time":3039}

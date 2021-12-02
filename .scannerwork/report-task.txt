@@ -1,0 +1,6 @@
+projectKey=flutter_micro_front_micro_app_login
+serverUrl=http://localhost:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9000/dashboard?id=flutter_micro_front_micro_app_login
+ceTaskId=AX14_7J2iS3UQzllufUc
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX14_7J2iS3UQzllufUc
